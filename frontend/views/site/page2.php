@@ -89,7 +89,7 @@ use yii\helpers\Html;
                 <a class="nav-link" href="index.php?r=site/page1">全国疫情图</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="index.php?r=site/page2">世界疫情图</a>
+                <a class="nav-link" href="index.php?r=worldmap/page">世界疫情图</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="index.php?r=site/page3">辟谣与防护</a>
